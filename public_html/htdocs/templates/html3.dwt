@@ -1,0 +1,100 @@
+<body width="80%" bgcolor="#b0c4de">
+	<div>
+		<table class="main" summary="Page layout" width="80%" border="0" cellspacing="0" cellpadding="2">
+			<tr height="120">
+				<td align="center" width="10%"><img title="Maverick Webdesign Ltd. logo. The logo has a rectangular shape with a blue border. Inside, on top of a gray / silver background is a capital M balancing on top of a capital W." src="/htdocs/graphics/MavLogo.png" alt="Maverick Webdesign Ltd. Logo" name="Maverick Webdesign Logo"></td>
+				<td valign="top" width="90%">
+					<table name="top_nav" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="silver">
+						<tr align="center" height="20">
+							<td width="10">|</td>
+							<td valign="top" width="80"><a title="* Maverick Home Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=home">Home</a></td>
+							<td width="10">|</td>
+							<td valign="top" width="80"><a title="* Maverick Company Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=company">Company</a></td>
+							<td width="10">|</td>
+							<td td valign="top" width="80"><a title="* Maverick Services Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=services">Services</a></td>
+							<td width="10">|</td>
+						</tr>
+					</table>
+					<table align="left" width="100%">
+						<tr>
+							<td clospan="3" valign="bottom">Path:</td>
+						</tr>
+						<tr align="center">
+							<td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.#version=5,0,30,0" height="50" width="250">
+				<param name="scale" value="noborder">
+				<param name="loop" value="true">
+				<param name="movie" value="maverick_ad_1.swf">
+				<param name="quality" value="best">
+				<param name="play" value="true">
+				<embed height="50" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="/htdocs/graphics/maverick_ad_1.swf" type="application/x-shockwave-flash" width="250" quality="best" play="true" loop="true" scale="noborder"> 
+			</object></td></tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+					</table>
+					<table name="side_nav" border="0" cellspacing="0" cellpadding="0" bgcolor="silver">
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><a title="* Maverick Home Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=home">Home</a></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><a title="* Maverick Company Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=company">Company</a></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><a title="* Maverick Services Page *" href="/cgi-bin/main.cgi?w3c=0;script=0;page=services">Services</a></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+						<tr>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+							<td><img src="/htdocs/graphics/spacer_10x10.png"></td>
+						</tr>
+					</table>
+				</td>
+				<td valign="top">
+					<table width="100%">
+						<tr>
+							<td width="10%"></td>
+							<td width="80%">=main</td>
+							<td width="10%"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<xml>
+<page name="services" title="*** Maverick Webdesign Ltd. Services Page ***">
+<data name="sp1div" data_type="1" tag="div" class="path" id="path" order="0">
+<tdata name="path" tag="p" order="0"><tdata name="sp1" tag="a" href="/cgi-bin/main.cgi?page=home" order="0">home</tdata>
+<tdata order="1"> &gt; </tdata>
+<tdata name="sp2" order="2">services</tdata>
+<tdata tag="br" order="3"></tdata>
+<tdata name="nav1" tag="center" order="4">
+<tdata name="nav2" order="5">| </tdata>
+<tdata name="nav3" tag="a" href="/cgi-bin/main.cgi?page=news" order="6">News</tdata><tdata name="nav4" order="7"> | </tdata><tdata name="nav5" tag="a" href="/cgi-bin/main.cgi?page=serverside" order="8">Server Scripts</tdata><tdata name="nav6" order="9"> | </tdata><tdata name="nav7" tag="a" href="/cgi-bin/main.cgi?page=clientside" order="10">Client Scripts</tdata><tdata name="nav8" order="11"> | </tdata>
+<tdata name="nav9" tag="a" href="/cgi-bin/main.cgi?page=webdesign" order="12">Web Design</tdata><tdata name="nav10" order="13"> | </tdata>
+
+<tdata name="nav9" tag="a" href="/cgi-bin/main.cgi?page=hosting" order="14">Hosting</tdata><tdata name="nav10" order="15"> | </tdata><tdata name="nav11" tag="a" href="/cgi-bin/main.cgi?page=issues" order="16">Issues</tdata><tdata name="nav12" order="17"> |</tdata></tdata><tdata tag="hr" id="pathbar"></tdata></tdata></data>
+
+<data name="sp2div" data_type="1" tag="div" order="1">
+<tdata name="sp0" tag="h3" order="0">Our Services &amp; Products</tdata>
+<tdata name="sp1" tag="p" class="page_text_cont" order="0">
+<tdata name="sp2" tag="b" order="0"><tdata name="sp2.1" tag="a" href="/cgi-bin/main.cgi?page=serverside" order="0">Server Side Scripting (CGI):</tdata></tdata><tdata tag="br" order="1" />
+<tdata tag="i" order="1">Maverick Webdesign Ltd.</tdata> provides CGI (Common Gateway Interface) scripts to handle all your server side scripting needs. We provide the web community, web designers, and web developers with high quality CGI scripts and modules capable of handling database access and queries, email support, handling of <tdata tag="a" href="http://www.w3.org/TR/REC-xml" order="2">XML</tdata> (<tdata tag="a" href="http://www.w3.org/TR/REC-xml" order="3">eXtensible Markup Language</tdata>) documents, and any server side functionality you might need.</tdata>
+
+<tdata name="sp3" tag="p" class="page_text_cont" order="1">
+<tdata name="sp4" tag="b" order="0"><tdata name="sp4.1" tag="a" href="/cgi-bin/main.cgi?page=clientside" order="0">Client Side Scripting (JavaScript):</tdata></tdata><tdata tag="br" order="1" />
+Our JavaScript team can deliver the client side scripts you need to enhance your dynamic <tdata tag="a" href="http://www.w3.org/TR/1999/REC-html401-19991224" order="2">HTML</tdata> (<tdata tag="a" href="http://www.w3.org/TR/1999/REC-html401-19991224" order="3">HyperText Markup Language</tdata>) pages and adds functionalities to your creations. Utilizing the DOM (Document Object Model) capabilities of modern browsers we can give you the complete control and the artistic freedom that these technologies makes possible. The combination of <tdata tag="a" href="http://www.netscape.com/javascript" order="4">JavaScript</tdata>, <tdata tag="a" href="http://www.w3.org/Style/CSS/current-work" order="5">CSS</tdata> (<tdata tag="a" href="http://www.w3.org/Style/CSS/current-work" order="6">Cascading Style Sheets</tdata>) and the <tdata tag="a" href="http://www.w3.org" order="7">W3C</tdata> (<tdata tag="a" href="http://www.w3.org" order="8">World Wide Web Consortium</tdata>) <tdata tag="a" href="http://www.w3.org/DOM" order="9">DOM Level 1</tdata> and <tdata tag="a" href="http://www.w3.org/TR/DOM-Level-2-Core/" order="10">DOM Level 2</tdata> standards that, even though not completely supported by all, modern browsers provide gives you a new level of creative freedom when designing web pages.</tdata>
+
+<tdata name="sp5" tag="p" class="page_text_cont" order="2">
+<tdata name="sp6" tag="b" order="0"><tdata name="sp6.1" tag="a" href="/cgi-bin/main.cgi?page=webdesign" order="0">Web Site Development &amp; Design:</tdata></tdata><tdata tag="br" order="1" />
+We build websites for both companies and the general public. For companies we develop complete web site solutions, and for private persons, who want their own web site, we develop smaller sites according to your ideas. We also have ideas and solutions for both company and private sites. Your ideas and requests will be implemented and we will assist you in finding a productive solution that best serves your company and enhances your company profile.</tdata>
+
+<tdata name="sp7" tag="p" class="page_text_cont" order="3">
+<tdata name="sp8" tag="b" order="0"><tdata name="sp6.1" tag="a" href="/cgi-bin/main.cgi?page=hosting" order="0">Hosting Solutions:</tdata></tdata><tdata tag="br" order="1" />
+<tdata tag="i" order="1">Maverick Webdesign Ltd.</tdata> will be able to provide a wide veriety of hosting solutions to suite every need in late 2004. For more information about our <tdata name="" tag="i" order="2">Hosting</tdata> products come back and visit us a little later or contact <tdata name="" tag="a" href="/cgi-bin/main.cgi?page=contact" order="2">info@maverick-web.com</tdata>.<tdata tag="br" order="3" /> <tdata tag="hr" order="4" />
+</tdata>
+
+
+</data>
+</page>
+<loaded>true</loaded>
+</xml>

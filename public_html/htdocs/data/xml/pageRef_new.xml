@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<maverick_site>
+<page_ref page="on" name="home" url="doc1.xml" />
+<page_ref page="on" name="logo" url="doc1.xml" />
+<page_ref page="on" name="navSide" url="doc1.xml" />
+<page_ref page="on" name="navTop" url="doc1.xml" />
+<page_ref page="on" name="services" url="doc2.xml" />
+<page_ref page="off" name="news" url="doc2.xml" />
+<page_ref page="off" name="serverside" url="doc2.xml" />
+<page_ref page="off" name="clientside" url="doc2.xml" />
+<page_ref page="off" name="webdesign" url="doc2.xml" />
+<page_ref page="off" name="hosting" url="doc2.xml" />
+<page_ref page="off" name="issues" url="doc2.xml" />
+<page_ref page="off" name="links" url="doc2.xml" />
+<page_ref page="off" name="company" url="doc3.xml" />
+<page_ref page="off" name="presentation" url="doc3.xml" />
+<page_ref page="on" name="contact" url="doc3.xml" />
+<page_ref page="off" name="downloads" url="doc3.xml" />
+<page_ref page="off" name="jobs" url="doc3.xml" />
+<page_ref page="off" name="legal" url="doc3.xml" />
+<loaded>true</loaded>
+</maverick_site>

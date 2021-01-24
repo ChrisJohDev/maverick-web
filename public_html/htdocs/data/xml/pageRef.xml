@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<xml>
+<page_ref page="on">
+<page_name>home</page_name><page_url>doc1.xml</page_url>
+</page_ref>
+<page_ref page="on">
+<page_name>services</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>news</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>serverside</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>clientside</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>webdesign</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>hosting</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>issues</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>links</page_name><page_url>doc2.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>company</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>presentation</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<page_ref page="on">
+<page_name>contact</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>downloads</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>jobs</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<page_ref page="off">
+<page_name>legal</page_name><page_url>doc3.xml</page_url>
+</page_ref>
+<loaded>true</loaded>
+</xml>

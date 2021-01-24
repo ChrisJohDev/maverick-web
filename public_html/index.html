@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+
+<html>
+<!-- VERSION: 0.2.02
+-->
+	<head>
+		<script language="JavaScript" type="text/javascript">
+		<!--
+			// Add suport for window size & color depth!
+			var script, url;
+			var w3c = "-1";
+			if ((document.implementation && document.implementation.createDocument) || (typeof ActiveXObject != "undefined" && window.ActiveXObject)){
+				script = "3";
+			} else if (document.getElementById && document.styleSheets){
+				script = "2";
+			} else if (document.images) {
+				script = "1";
+			}
+			if (script > "1"){
+				w3c = "1";
+			}
+			url = "/cgi-bin/main.cgi?scripting="+script+";dom="+w3c;
+			window.location.replace(url);
+		//-->
+		</script>
+		<meta http-equiv="REFRESH" content="5;URL=/cgi-bin/main.cgi?scripting=-1">
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>Maverick Webdesign Ltd. Splash</title>
+	</head>
+
+	<body>
+	<table width="100%" hight="100%">
+		<tr align="center" valign="middle">
+			<td>
+				<center>
+					<a href="/cgi-bin/main.cgi?scripting=-1;dom=-1">
+						<img src="/htdocs/graphics/MavLogo.png" alt="Welcome to Maverick Webdesign Ltd." title="Click to enter">
+					</a>
+				</center>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<a href="/cgi-bin/main.cgi?scripting=-1;dom=-1">Enter</a>
+			</td>
+		</tr>
+	</table>
+	</body>
+
+</html>

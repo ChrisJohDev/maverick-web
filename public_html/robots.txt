@@ -1,0 +1,10 @@
+# robots.txt file for http://mywebsite.co.uk/
+ 
+User-agent: *
+Disallow:/cgi-bin
+Disallow:/htdocs/lib
+Disallow:/chris
+Disallow:/downloads
+Disallow:/entropybanner
+Disallow:/env
+Disallow:/test

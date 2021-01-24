@@ -1,0 +1,49 @@
+/*
+	CSS stylesheet to work with mav_menus_top.js
+	JavaScript script.
+*/
+.menuWrapper      { background-color: blue; text-align: center; vertical-align: bottom; padding: 3px; border-style: solid; border-width: 2px; border-color: silver gray gray silver; z-index: 1000; width: 96px; visibility: hidden; poition: absolute  }
+.menuItem		     { color: white; font-size: 10px; line-height: 1.4em; font-family: Arial, Helvetica, sans-serif; text-decoration: none; background-color: blue; text-align: left; padding-left: 10px; border-style: solid; border-width: 1px; border-color: silver gray gray silver; position: absolute; z-index: 1000; top: 0px; left: 0px; width: 86px; height: 18px; cursor: pointer  }
+div.menuItem { position: absolute; top: 3px; left: 3px }
+div.menuItemOn { position: absolute; top: 3px; left: 3px }
+.menuItemOn	      { color: #f00; font-size: 10px; line-height: 1.4em; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; background-color: #4a3ed9; text-align: left; padding-left: 10px; border-style: solid; border-width: 1px; border-color: lime green green lime; position: absolute; top: 0px; left: 0px; width: 86px; height: 18px; cursor: pointer  }
+a.menuItem     { color: white; font-style: normal; position: absolute; top: 0px; left: 0px; width: 84px; height: 16px }
+a.menuItemOn    { color: yellow; font-style: normal; position: absolute; top: 0px; left: 0px; width: 84px; height: 16px }
+a.menuItem:link { color: white; text-decoration: none }
+a.menuItem:visited { color: white; text-decoration: none }
+a.menuItem:hover { color: yellow; font-style: italic; text-decoration: underline }
+a.menuItem:active { color: silver; font-style: oblique; font-weight: bold; text-decoration: none }
+a.menuItemOn:link { color: white; text-decoration: none }
+a.menuItemOn:visited { color: white; text-decoration: none }
+a.menuItemOn:hover { color: yellow; font-style: italic; text-decoration: underline }
+a.menuItemOn:active { color: silver; font-style: oblique; font-weight: bold; text-decoration: none }
+a.sideMenuItem     { color: white; font-style: normal; line-height: 1em; padding: 4px; position: absolute; z-index: 500; top: 5px; left: 44px; width: 74px; height: 16px }
+a.navside { position: relative; left: 6px }
+a.sideMenuItem:link     { color: white; font-style: normal; position: absolute; top: 0px; left: 0px }
+a.sideMenuItem:visited     { color: white; font-style: normal; position: absolute; top: 0px; left: 0px }
+a.sideMenuItem:hover { color: yellow; font-style: italic; text-decoration: underline }
+a.sideMenuItem:active { color: silver; font-style: oblique; font-weight: bold; text-decoration: none }
+.sideNav      { font-style: normal; font-weight: normal; font-size: 1em; line-height: 1.2em; font-family: "Times New Roman", Georgia, Times, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-align: left; text-indent: -20px }
+.sideNavLevel2  { text-align: left; visibility: hidden }
+.sideNavLevel3  { text-align: left; visibility: hidden }
+.sideNav2      { font-style: normal; font-weight: normal; font-size: 0.9em; text-decoration: none; text-align: left; text-indent: -40px }
+.sideNav3   { font-style: normal; font-weight: normal; font-size: 0.9em; text-decoration: none; text-align: left; text-indent: -60px }
+.row {vertical-align: middle; font-size: 12px; font-family: Arial, sans-serif}
+.OLBlock {display: none}
+img.widgetArt {vertical-align: text-top}
+.sideMenuItem     { line-height: 1em; padding: 4px; position: absolute; z-index: 100; top: 5px; left: 40px; width: 100px }
+.subMenu    { font-size: 0.9em; line-height: 1em; padding: 4px; position: relative; top: 5px; left: 14px; width: auto }
+.navsidediv { position: relative; top: 40px; left: 4px }
+.adtop    { position: absolute; top: 40px; left: 5px; width: 615px; height: 79px; visibility: visible }
+.adtop1    { position: absolute; top: 0px; left: 0px; width: 250px; height: 50px; visibility: visible }
+.adtop1_1 { position: absolute; top: 0px; left: 0px; visibility: visible }
+.adtop2  { position: absolute; top: 0px; left: 315px; width: 250px; height: 50px; visibility: visible }
+.page_text_cont { font-style: normal; font-weight: normal; font-size: 0.8em; font-family: "Times New Roman", Georgia, Times; text-decoration: none; text-align: left }
+.cont_tab1 { font-style: normal; font-weight: normal; font-size: 0.8em; font-family: "Times New Roman", Georgia, Times; text-align: left }
+.cont_tab2 { font-style: normal; font-weight: normal; font-size: 0.8em; font-family: "Times New Roman", Georgia, Times; text-align: left }
+.tab_head { font-weight: bold; text-align: right }
+.continp { text-align: left; border: inset 2px gray }
+.tab_head_msg { font-weight: bold; text-align: right; vertical-align: top }
+.reset  { font-style: normal; font-weight: normal; font-size: 1em; font-family: "Times New Roman", Georgia, Times; text-align: center; vertical-align: bottom }
+.send { font-style: normal; font-weight: normal; font-size: 1em; font-family: "Times New Roman", Georgia, Times; text-align: center; vertical-align: bottom }
+
